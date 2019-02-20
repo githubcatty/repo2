@@ -1,0 +1,32 @@
+ Volume in drive C is OS
+ Volume Serial Number is A879-5A99
+
+ Directory of C:\Users\rashi
+
+20-02-2019  17:40    <DIR>          .
+20-02-2019  17:40    <DIR>          ..
+03-02-2019  23:19               712 .bash_history
+14-04-2018  20:01    <DIR>          .eclipse
+03-02-2019  03:39                57 .gitconfig
+14-01-2019  02:02    <DIR>          .jenkins
+14-04-2018  22:54    <DIR>          .p2
+30-12-2018  02:17    <DIR>          3D Objects
+30-12-2018  02:17    <DIR>          Contacts
+09-02-2019  17:55    <DIR>          Desktop
+30-12-2018  02:17    <DIR>          Documents
+03-02-2019  02:36    <DIR>          Downloads
+30-12-2018  02:17    <DIR>          Favorites
+14-04-2018  20:11    <DIR>          javaprograms
+30-12-2018  02:17    <DIR>          Links
+30-12-2018  02:17    <DIR>          Music
+20-02-2019  16:09    <DIR>          OneDrive
+30-12-2018  02:17    <DIR>          Pictures
+10-08-2017  09:45    <DIR>          Roaming
+30-12-2018  02:17    <DIR>          Saved Games
+30-12-2018  02:17    <DIR>          Searches
+20-02-2019  16:23             1,291 test.txt
+20-02-2019  17:40                 0 test1.txt
+20-02-2019  16:09    <DIR>          Videos
+14-04-2018  20:01    <DIR>          workspace
+               4 File(s)          2,060 bytes
+              21 Dir(s)  58,661,011,456 bytes free
